@@ -69,6 +69,7 @@ public class MainRyuji {
         String name = null;
         String gender = null;
         String line = null;
+        
 
         Ryuji ryuji = new Ryuji();
         Configuration configuration = new Configuration();

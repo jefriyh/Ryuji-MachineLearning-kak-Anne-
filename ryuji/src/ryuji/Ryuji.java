@@ -58,8 +58,7 @@ public class Ryuji {
         
         SymbolFactory symbolFactory = new SymbolFactory(new SimpleKeywordChecker(banWords, auxWords));
         splitter = new WordNonwordSplitter(symbolFactory);
-
-        model = new Model();
+      model = new Model();
 
         BufferedReader reader = new BufferedReader(new FileReader(home+"/data/megahal2.trn"));
         String line;
@@ -229,4 +228,6 @@ public class Ryuji {
         // Return the generated string, tacked back together.
         return (bestReply == null) ? null : splitter.join(bestReply);
     }
+    
+   
 }

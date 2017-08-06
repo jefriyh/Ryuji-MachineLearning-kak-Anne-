@@ -5,10 +5,25 @@
         <group>
             <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ryuji/Client.java</file>
             <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ryuji/TrieNodeMap.java</file>
-            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ryuji/SimpleKeywordChecker.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ryuji/KeywordChecker.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/library/SpeechRecognition.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ResponseCollection/Actions/CollegeInformation.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ResponseCollection/Actions/ActionType.java</file>
             <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ryuji/Utils.java</file>
-            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ryuji/MainRyuji.java</file>
             <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ryuji/Ryuji.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/Main/Main.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/library/ClientSocket.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/library/ColorizeConsole.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ResponseCollection/Actions/FindPeople.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/library/Response.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ResponseCollection/CollegeInformationCommands.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/Main/config.xml</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ryuji/SimpleKeywordChecker.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/library/Client.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/library/TagMatch.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ryuji/MainRyuji.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ResponseCollection/FindPeopleCommands.java</file>
+            <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/Dictionary/dictionary.gram</file>
             <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ryuji/TextToSpeechConverter.java</file>
             <file>file:/home/jefri/NetBeansProjects/Ryuji-kakAnne/ryuji/src/ryuji/Splitter.java</file>
         </group>
